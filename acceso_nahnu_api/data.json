@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Felipe",
+    "email": "felipe@gmail.com",
+    "address": {
+      "street": "yucatan numero 10",
+      "city": "Tula",
+      "state": "Oaxaca",
+      "postalCode": "43689"
+    },
+    "phoneNumbers": [
+      {
+        "type": "trabajo",
+        "number": "7751572100"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Santiago",
+    "email": "santiago@gmail.com",
+    "address": {
+      "street": "Hidalgo numero 6",
+      "city": "cuautepec",
+      "state": "Coahuila",
+      "postalCode": "43604"
+    },
+    "phoneNumbers": [
+      {
+        "type": "personal",
+        "number": "7751972630"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Andy Lopez",
+    "email": "andy@gmail.com",
+    "address": {
+      "street": "Boulevard Principal 789",
+      "city": "Ciudad Nueva",
+      "state": "Nuevo Estado",
+      "postalCode": "11223"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-9988"
+      },
+      {
+        "type": "work",
+        "number": "555-7766"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Carlos Ruiz",
+    "email": "carlos@gmail.com",
+    "address": {
+      "street": "Calle Secundaria 1011",
+      "city": "Ciudad Vieja",
+      "state": "Viejo Estado",
+      "postalCode": "44556"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-3344"
+      },
+      {
+        "type": "work",
+        "number": "555-1122"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ana Sanchez",
+    "email": "ana@gmail.com",
+    "address": {
+      "street": "Calle Tercera 1314",
+      "city": "Ciudad Moderna",
+      "state": "Estado Moderno",
+      "postalCode": "77889"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-5566"
+      },
+      {
+        "type": "work",
+        "number": "555-3344"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Panfilo",
+    "email": "panfilo@gmail.com",
+    "address": {
+      "street": "florida",
+      "city": "tulancingo",
+      "state": "hidalgo",
+      "postalCode": "43600"
+    },
+    "phoneNumbers": [
+      {
+        "type": "casa",
+        "number": "7751045674"
+      }
+    ]
+  }
+]

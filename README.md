@@ -9,3 +9,30 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+
+# Instalacion de MySQL
+
+### Actualizacion de paquetes
+
+sudo apt-get update
+
+### Instalacion de MySQL
+
+sudo apt-get install mysql-server
+
+### Iniciar servidor de MySQL
+
+sudo service mysql start
+
+### Acceder a la terminal de MySQL
+
+sudo mysql -u root -p
+
+### Detener servidor de MySQL
+
+sudo service mysql stop
+
+### Estatus del servidor de MySQL
+
+sudo service mysql status

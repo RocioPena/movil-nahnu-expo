@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "word": "banana",
+    "definition": "es un platano freson"
+  },
+  {
+    "id": 2,
+    "word": "cat",
+    "definition": "es un animal de casa"
+  },
+  {
+    "id": 5,
+    "word": "Flor",
+    "definition": "Una flor salvaje de las praderas"
+  }
+]
