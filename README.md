@@ -14,25 +14,53 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 # Instalacion de MySQL
 
 ### Actualizacion de paquetes
-
+```
 sudo apt-get update
+```
 
 ### Instalacion de MySQL
-
+```
 sudo apt-get install mysql-server
+```
 
 ### Iniciar servidor de MySQL
-
+```
 sudo service mysql start
+```
 
 ### Acceder a la terminal de MySQL
-
+```
 sudo mysql -u root -p
+```
 
 ### Detener servidor de MySQL
-
+```
 sudo service mysql stop
+```
 
 ### Estatus del servidor de MySQL
-
+```
 sudo service mysql status
+```
+
+# Correr Apis
+
+Acceder a las carpetas de las Apis
+
+```bash
+cd acceso_nahnu_api
+cd diccionario_nahnu_api
+cd traductor_nahnu_api
+```
+
+### Instalar las depenciancias
+
+```bash
+npm install mysql2 dotenv
+```
+```bash
+npm install bcrypt dotenv
+```
+```bash
+npm install joi
+```
