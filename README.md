@@ -64,3 +64,8 @@ npm install bcrypt dotenv
 ```bash
 npm install joi
 ```
+
+### Ejecucion de la Api
+```bash
+node app.js
+```
